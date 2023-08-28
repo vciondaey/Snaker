@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+	display: flex;
+	color: #fff;
+}
+
+#canvas{
+/*	background-color: rgb(100, 17, 50);*/
+	background-color: rgb(2, 255, 2);
+	border: 10px;
+	border-radius: 8px;
+	border-color: white;
+}
